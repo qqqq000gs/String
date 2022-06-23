@@ -1,4 +1,4 @@
-# Pyrogram and Telethon String Session Bot.
+# بوت بيروجرام وجلسة تيليثون سترينج.
 
 ### Deploy to Heroku... تنضيب على هيروكو
 
@@ -20,9 +20,9 @@
 
 
 
-## مطور البوت... OWNER OF THE BOT
+## مطور البوت ... مالك الروبوت
 
-## ا @N_B_1
+## ا @N_J_9
 
 
 
